@@ -1,13 +1,13 @@
 body {
-    background-color: #f0f0f0;
     font-family: Arial;
+    background-color: #e6f2ff;
     text-align: center;
 }
 
 h1 {
-    color: blue;
+    color: darkblue;
 }
 
-p {
-    color: black;
+ul {
+    list-style-type: none;
 }
